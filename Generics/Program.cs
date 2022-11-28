@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Generics Problem");
+            FindMaxNum.MaxValue(30,30,30);
         }
     }
 }
